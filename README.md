@@ -19,6 +19,20 @@
 
 ---
 ## 3. Tutorial
+
+### 3.1 Object
+- [Build world](http://gazebosim.org/tutorials?tut=build_world)
+
+- [Build model](http://gazebosim.org/tutorials?tut=build_model)
+
+- [예제](https://github.com/srebroa/rrbot_pushing_object)
+
+	![](./figure/example.gif)
+
+
+
+
+### 3.2 Robot
 - Universal robot(UR)
 	- [ROS](https://github.com/UniversalRobots/Universal_Robots_ROS_Driver)
 		- 패키지 설치
@@ -55,6 +69,12 @@
 			`roslaunch ur5_moveit_config moveit_rviz.launch config:=true`
 
 ---
+### 3.3 Camera
+
+TODO
+
+
+
 ## 참고
 
 - [Rviz](http://wiki.ros.org/rviz/): 3D 시각화 툴
